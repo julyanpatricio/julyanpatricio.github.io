@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.b95cdd61.chunk.css",
-    "main.js": "/static/js/main.583bbba4.chunk.js",
-    "main.js.map": "/static/js/main.583bbba4.chunk.js.map",
+    "main.js": "/static/js/main.393e3e1c.chunk.js",
+    "main.js.map": "/static/js/main.393e3e1c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.75b893ca.js",
     "runtime-main.js.map": "/static/js/runtime-main.75b893ca.js.map",
     "static/css/2.f2512455.chunk.css": "/static/css/2.f2512455.chunk.css",
@@ -14,7 +14,7 @@
     "static/js/2.6481daa5.chunk.js.LICENSE.txt": "/static/js/2.6481daa5.chunk.js.LICENSE.txt",
     "static/media/PY-DJ.8ea83484.jpg": "/static/media/PY-DJ.8ea83484.jpg",
     "static/media/TSvsJS.9e1e54fb.jpg": "/static/media/TSvsJS.9e1e54fb.jpg",
-    "static/media/about.be632089.png": "/static/media/about.be632089.png",
+    "static/media/about.93502c31.png": "/static/media/about.93502c31.png",
     "static/media/cute-clothes-admin.807c96d0.png": "/static/media/cute-clothes-admin.807c96d0.png",
     "static/media/cute-clothes-cart.fc6c7064.png": "/static/media/cute-clothes-cart.fc6c7064.png",
     "static/media/cute-clothes-detail.74c2e487.png": "/static/media/cute-clothes-detail.74c2e487.png",
@@ -35,6 +35,6 @@
     "static/css/2.f2512455.chunk.css",
     "static/js/2.6481daa5.chunk.js",
     "static/css/main.b95cdd61.chunk.css",
-    "static/js/main.583bbba4.chunk.js"
+    "static/js/main.393e3e1c.chunk.js"
   ]
 }
